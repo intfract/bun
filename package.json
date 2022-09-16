@@ -1,0 +1,15 @@
+{
+  "name": "bun-template",
+  "version": "1.0.0",
+  "author": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "start": "bun index.ts",
+    "template:http": "bun ./templates/http.ts"
+  },
+  "dependencies": { "baojs": "^0.1.3" }
+}
